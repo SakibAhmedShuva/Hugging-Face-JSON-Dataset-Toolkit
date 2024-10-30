@@ -1,4 +1,4 @@
-# Hugging-Face-Dataset-Toolkit
+# Hugging-Face-JSON-Dataset-Toolkit
 
 This repository contains a set of tools and scripts to help you work with datasets from the Hugging Face ecosystem. The main focus is on preprocessing and analyzing the datasets before using them in your machine learning projects.
 
@@ -16,7 +16,7 @@ The repository currently includes the following components:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/Hugging-Face-Dataset-Toolkit.git
+   git clone https://github.com/SakibAhmedShuva/Hugging-Face-JSON-Dataset-Toolkit.git
    ```
 
 2. Open the Jupyter Notebook `hf_toolkit.ipynb` and follow the instructions in the notebook.
